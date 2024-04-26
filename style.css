@@ -1,0 +1,17 @@
+body {
+    background-color: #ffb3b9;
+    font-family: "Times New Roman", sans-serif;
+    color: #540A0A;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: "Courier New", "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+    color: #471F06;
+    font-weight: bold;
+}
