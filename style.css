@@ -2,12 +2,19 @@ body {
     background-color: #ffb3b9;
     font-family: "Times New Roman", sans-serif;
     color: #540A0A;
+    box-sizing: border-box;
 }
 
 h1 {
     font-weight: bold;
     font-family: "Courier New", "Times New Roman", sans-serif;
     text-align: center;
+}
+
+.content {
+    background-color: beige;
+    margin: 5px;
+    padding: 5px;
 }
 
 a {
